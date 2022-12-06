@@ -1,7 +1,7 @@
 # screen_rec
 Screen Recorder supporting various libraries
 
-TODO:
+# TODO
 - Add the rest of the attribution and credit for certain functions
 - Fix the mouse since it's only present most of the time instead of all the time
 - Fix the DPI scaling support (it's not really working right, at least according to the resulting video/frame)
