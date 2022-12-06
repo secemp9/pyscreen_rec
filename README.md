@@ -1,2 +1,2 @@
-# pyscreen_rec
+# screen_rec
 Screen Recorder supporting various libraries
