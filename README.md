@@ -11,6 +11,7 @@ It uses the following for capturing the screen (optional, but not really since t
 
 Pillow is the default one, since it's the fastest and easiest to work with. mss is faster, but I didn't find a way yet to include the broken mouse support. Pyautogui...it works in a similar way as Pillow does, but it uses too much cpu. Still kept it though.
 
+As of time of writing, this only support Windows, but I plan on making it work with Xlib for Linux support. At least I have a feeling the mouse support will be less buggy there.
 # Why
 
 OBS (among other ones) are too slow on my laptop (intel only). So I thought of making my own thing instead. I guess it's decently fast, but need to really benchmark this.
