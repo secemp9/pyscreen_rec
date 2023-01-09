@@ -19,8 +19,8 @@ import numpy as np
 
 class DPIAware(enum.Enum):
     """
-    Code taken from:
-    Credit:
+    Code taken from: https://stackoverflow.com/a/74105119/12349101
+    Credit: Wood
 
     This is for handling DPI scaling, but that doesn't seem to work correctly :/
     """
